@@ -1,10 +1,11 @@
 # proj_Colour_randomiser
-site that randomly generates a colour
+A site that randomly generates a colour
 
 ## Description
 <br>
-This project was a tutorial i followed partly (freeCodeCamp - https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28s)
+This project was a tutorial I followed partly (freeCodeCamp - https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28s)
 Using my existing JS knowledge and extending it to feed JS outputs back to the site.
+Once i picked up what the tutorial was doing, i then created my own implementation of it.
 
 Website: https://lapworthaaron.github.io/proj_Colour_randomiser/
 <br>Repository: https://github.com/LapworthAaron/proj_Colour_randomiser
